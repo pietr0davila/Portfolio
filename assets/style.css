@@ -39,7 +39,6 @@ nav {
     font-size: 1.5rem;
     font-weight: bold;
     color: #64ffda;
-    padding: 1.5rem;
 }
 
 .nav-links {
@@ -74,7 +73,6 @@ nav {
     width: 100%;
 }
 
-Hero Section */
 .hero {
     height: 100vh;
     display: flex;
@@ -92,6 +90,8 @@ Hero Section */
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+    padding: 1.5rem;
+    margin: 1rem;
 }
 
 .hero-content .subtitle {
